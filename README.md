@@ -5,19 +5,19 @@ An open-source platform for refill and reuse dispenser systems.
 ## The Mission
 To accelerate the global shift away from single-use plastic by enabling open, low-cost refill dispensing systems that work across different hardware and settings, through open-source designs, shared standards, and collaboration.
 
-Find out more at [openrefill.com][1] and dive deeper with our [further readings wiki](https://github.com/OpenRefill/OpenRefill/wiki/Further-Reading). 
+Find out more at [openrefill.com](https://openrefill.com) and dive deeper with our [further readings wiki](https://github.com/OpenRefill/OpenRefill/wiki/Further-Reading). 
 
 
 ## Getting started
 1. Read the [licence](LICENCE.md) and understand your freedoms and responsibilities (link to website section)
-2. Read our [code of conduct](CODE_OF_CONDUCT.mc) and our [contribution guidelines](CONTRIBUTING.md).
-3. Check out our [discussions page](./discussions). Feel free to introduce yourself in [Welcome to OpenRefill Discussions!](./discussions/1).
+2. Read our [code of conduct](CODE_OF_CONDUCT.md) and our [contribution guidelines](CONTRIBUTING.md).
+3. Check out our [discussions page](discussions). Feel free to introduce yourself in [Welcome to OpenRefill Discussions!](discussions/1).
 
 
 ## Need help? 
 - FAQs _(link to website FAQs)_
-- [Q&As](./discussions/categories/q-a)
-- Email us at [hello@openrefill.com][2].
+- [Q&As](discussions/categories/q-a)
+- Email us at hello@openrefill.com.
 
 
 ## Follow Us
@@ -28,20 +28,9 @@ Youtube link _(link to channel)_
 #refillrevolution
 
 ## Credits
-[Smartfill][3]
+[Smartfill](https://smartfill.store/)
 
 #### Contributors
 #### Sponsors
 #### Backers
 ---
-
-### Link References
-<details>
-<summary>Click to view</summary>
-
-[1]: https://openrefill.com
-[2]: mailto:hello@openrefill.com
-[3]: https://smartfill.com
-
-</details>
-
