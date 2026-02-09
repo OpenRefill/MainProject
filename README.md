@@ -9,7 +9,7 @@ Find out more at [openrefill.com][1] and dive deeper with our [further readings 
 
 
 ## Getting started
-1. Read the [licence](./LICENCE) and understand your freedoms and responsibilities (link to website section)
+1. Read the [licence](LICENCE.md) and understand your freedoms and responsibilities (link to website section)
 2. Read our [code of conduct](./CODE_OF_CONDUCT) and our [contribution guidelines](./CONTRIBUTING).
 3. Check out our [discussions page](./discussions). Feel free to introduce yourself in [Welcome to OpenRefill Discussions!](./discussions/1).
 
