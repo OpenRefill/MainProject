@@ -15,22 +15,14 @@ Find out more at [openrefill.com](https://openrefill.com) and dive deeper with o
 
 
 ## Need help? 
-- FAQs _(link to website FAQs)_
 - [Q&As](https://github.com/OpenRefill/OpenRefill/discussions/categories/q-a)
 - Email us at hello@openrefill.com.
+- [openrefill.com](https://openrefill.com/)
 
 
 ## Follow Us
 - [LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true)
-- Youtube link _(link to channel)_
 
 #openrefill
 #refillrevolution
 
-## Credits
-#### Partners
-[Smartfill](https://smartfill.store/)
-
-#### Contributors
-#### Sponsors
----
