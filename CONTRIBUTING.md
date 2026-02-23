@@ -2,7 +2,7 @@
 
 First off, thank you for considering contributing to OpenRefill! It’s community involvement that keeps this hardware sustainable, affordable, and truly open. We welcome all community contributions—they are critical to our mission.
 
-By contributing to this project, you agree that your contributions will be licensed under the project's forthcoming open-source license (which allows for commercial use, with the requirement that enhancements and bug fixes are shared back).
+By contributing to this project, you agree that your contributions will be licensed under the project's open-source license (which allows for commercial use, with the requirement that enhancements and bug fixes are shared back).
 
 ---
 
