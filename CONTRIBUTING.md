@@ -6,7 +6,7 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-## 🛠 Hardware & Firmware
+## Hardware & Firmware
 
 Whether you are working on the physical build or the code that runs it, we use a template system to keep contributions organized.
 
@@ -23,7 +23,7 @@ Help us keep the dispenser running smoothly and efficiently.
 
 ---
 
-## 💡 Ideas & Feature Requests
+## Ideas & Feature Requests
 
 Got an idea on how to bring the hardware cost down? Or an enhancement to improve the durability or sustainability of the unit? Any other ideas are also highly welcome.
 
@@ -33,7 +33,7 @@ Got an idea on how to bring the hardware cost down? Or an enhancement to improve
 
 ---
 
-## 📚 Maintenance Files
+## Maintenance Files
 
 Great hardware requires great manuals. 
 
@@ -41,13 +41,13 @@ If you have any suggested improvements for our manuals, SOPs, or command protoco
 
 ---
 
-## 📃 Documentation
+## Documentation
 Our primary technical documentation lives on a Docusaurus site in a separate repository. This is still a work in progress. 
   > 📌 **Note:** If you want to improve the docs, please head over to the [OpenRefill Documentation Repo](#link) and submit an issue using their `documentation_issue` template.
 
 ---
 
-## 🌍 Community & Localization
+## Community & Localization
 
 ### Help the Community (Q&A)
 One of the most valuable ways to contribute is by helping others. 
@@ -64,10 +64,21 @@ Don't see your country? Please contact a team member, moderator or email us at h
 
 ---
 
-## 🚀 Future Opportunities
+## Future Opportunities
 
 * **Join The Team:** To be announced.
 * **Business Side of Things:** To be announced. 
+
+---
+
+## Original Contributors
+
+OpenRefill is a collaborative effort brought to life by industry leaders in smart logistics, digital innovation, and global sustainability:
+
+* **[Smartfill](https://smartfill.store)** – A leading global supplier of smart dispensers and cloud-based logistics and inventory management for bulk products.
+* **[DY|DX Digital](https://dydx.digital)** – A leading innovation consultancy.
+* **[TRANSFORM](https://www.transform.global/home.html)** – A joint initiative between Unilever, the UK Foreign, Commonwealth & Development Office (FCDO), and EY.
+* **[BOPINC](https://bopinc.org)** & **[Unilever Bangladesh](https://www.unilever.com.bd/)** – Strategic partners whose work on the **URefill** project provided foundational results for this initiative.
 
 ---
 
