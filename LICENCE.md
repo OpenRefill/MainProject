@@ -1,6 +1,9 @@
 # Licenses
 
-The OpenRefill hardware designs, firmware, and documentation are provided with the intent of maximum openness. You have the freedom to use, modify, and distribute these materials for any purpose, including commercial applications, **provided that any enhancements, improvements, or bug fixes are contributed back to the project to benefit the entire community.** Read the [contributing](https://github.com/OpenRefill/MainProject/blob/main/CONTRIBUTING.md) guide on how to contribute back.  
+The OpenRefill hardware designs, firmware, and documentation are provided with the intent of maximum openness. You have the freedom to use, modify, and distribute these materials for any purpose, including commercial applications, **provided that any enhancements, improvements, or bug fixes are contributed back to the project to benefit the entire community.** 
+
+By downloading and using the files (designs, firmware, documentation) you are automatically binded to the terms of our licenses. Read the [contributing](https://github.com/OpenRefill/MainProject/blob/main/CONTRIBUTING.md) guide on how to contribute back.
+
 
 | Material Category | Typical Materials Covered | Licence | Identifier |
 |---|---|---|---|
