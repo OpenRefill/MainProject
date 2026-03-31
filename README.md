@@ -13,13 +13,14 @@ Find out more at [openrefill.com](https://openrefill.com) and dive deeper at our
 2. Read our [code of conduct](CODE_OF_CONDUCT.md) and our [contribution guidelines](CONTRIBUTING.md).
 3. Check out our [discussions page](https://github.com/OpenRefill/OpenRefill/discussions). Feel free to introduce yourself in [Welcome to OpenRefill Discussions!](https://github.com/OpenRefill/OpenRefill/discussions/1#discussion-9450050).
 4. Review our [open issues](https://github.com/OpenRefill/MainProject/issues) to start contributing.
-5. Are you an entrepreneur or builder? Go to our [build guide](https://github.com/OpenRefill/MainProject/wiki/Build-Guide) and [business guide](https://github.com/OpenRefill/MainProject/wiki/Business-Guide). 
+5. Understand the logistics, operational, and business model dimensions of deploying a refill service by heading to [Refill Realities](https://www.refillrealities.com/#playbooks) and reading their playbooks. 
 
 
 ## Need help? 
 - Email us at hello@openrefill.com.
 
-## Follow Us [LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true) 
+## Follow Us 
+[LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true) 
 #openrefill 
 #refillrevolution
 
